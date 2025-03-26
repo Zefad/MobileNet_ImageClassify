@@ -13,8 +13,8 @@ To use this tool, you need to install the required Python libraries. Follow the 
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/Zefad/Image_Classify.git
-   cd Image_classify
+   https://github.com/Zefad/MobileNet_Image_Classify.git
+   cd MobileNet_Image_Classify
 2. **Install Dependencies**:
    ```
    pip install -r requirements.txt
@@ -24,4 +24,4 @@ To use this tool, you need to install the required Python libraries. Follow the 
 ### Running the Tool
 1. Open the Jupyter Notebook file `Image_Classify.ipynb`.
 2. Run each cell.
-3. Add image path when asked.
+3. Add image path as Input.
