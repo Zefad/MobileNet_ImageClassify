@@ -13,7 +13,7 @@ To use this tool, you need to install the required Python libraries. Follow the 
 
 1. **Clone Repository**:
    ```bash
-   https://github.com/Zefad/MobileNet_Image_Classify.git
+   git clone https://github.com/Zefad/MobileNet_Image_Classify.git
    cd MobileNet_Image_Classify
 2. **Install Dependencies**:
    ```
